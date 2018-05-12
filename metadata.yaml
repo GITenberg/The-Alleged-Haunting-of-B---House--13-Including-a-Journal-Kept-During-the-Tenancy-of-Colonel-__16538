@@ -1,0 +1,44 @@
+_repo: The-Alleged-Haunting-of-B---House--13-Including-a-Journal-Kept-During-the-Tenancy-of-Colonel-__16538
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editors:
+  - agent_name: Goodrich-Freer, A. (Ada)
+    aliases:
+    - Freer, Adela Goodrich-
+    - Freer, Ada Goodrich
+    - Goodrich-Freer, Adela M.
+    - Spoer, H. H., Mrs.
+    birthdate: 1865
+    deathdate: 1931
+    gutenberg_agent_id: '6779'
+    url: http://www.gutenberg.org/2009/agents/6779
+  - agent_name: Bute, John Patrick Crichton-Stuart, Marquess of
+    aliases:
+    - Stuart, John Patrick Crichton-, Marquess of Bute
+    - Botha, Joannes Patricus, marchio
+    - Crighton Stuart, John Patrick, Marquess of Bute
+    - Crichton-Stuart, John Patrick, Marquess of Bute
+    birthdate: 1847
+    deathdate: 1900
+    gutenberg_agent_id: '6780'
+    url: http://www.gutenberg.org/2009/agents/6780
+    wikipedia: http://en.wikipedia.org/wiki/John_Crichton-Stuart%2C_3rd_Marquess_of_Bute
+description: ''
+gutenberg_issued: '2005-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16538'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ghosts -- Scotland -- Perthshire'
+- !lcc 'BF'
+- !lcsh 'Haunted houses -- Scotland -- Perthshire'
+title: "The Alleged Haunting of B—— House\r\nIncluding a Journal Kept During the Tenancy\
+  \ of Colonel Lemesurier Taylor"
+url: http://www.gutenberg.org/ebooks/16538
