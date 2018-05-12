@@ -27,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6780
     wikipedia: http://en.wikipedia.org/wiki/John_Crichton-Stuart%2C_3rd_Marquess_of_Bute
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16538#The-Alleged-Haunting-of-B---House--13-Including-a-Journal-Kept-During-the-Tenancy-of-Colonel-_
 gutenberg_issued: '2005-08-17'
 gutenberg_type: Text
 identifiers:
